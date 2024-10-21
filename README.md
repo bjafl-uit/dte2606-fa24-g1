@@ -14,6 +14,14 @@
 
 - Report can be found in [docs folder](/docs/report/dte2606-fa24-graded1-bfl.pdf)
 
+## Requirements
+
+- matplotlib
+- numpy
+- pygame
+
+Listed in [requirements.txt](requirements.txt). May be installed with `pip install -r requirements.txt`
+
 ## Notes
 
 - AI tools (ChatGPT and GH Copilot) have been applied for support, like code completion, productivity and support in syntax lookup and providing examples.
